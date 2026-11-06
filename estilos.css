@@ -1,0 +1,48 @@
+	  
+	  
+body { 
+	  background-color:lightblue;
+}
+
+
+h1 {
+	color: darkblue;
+	font-family: Arial;
+	
+}
+	
+h2 {
+	color: blue;
+	font-family: Times New Roman;
+	
+}
+
+.destaque { 
+	  background-color: blue;
+      margin: 10px;
+	  display: inline; /*Faz o fundo ajustar-se apenas à largura do texto*/
+	  
+}
+
+</" Desafio Técnico: A regra de CSS mais difícil de aplicar foi a do destaque, pois , inicialmente não compreendia para que servia e qual a sua utilidade.
+Superei esta dificuldade recorrendo aos documentos de apoio no Classroom,o tutoriais de CSS, e com recurso à pesquisa autónoma, no fim percebi que esta propriedade é bastante útil pois
+podemos aplicá-la a um parágrafo(dando-lhe destaque) e dar-lhe uma margem personalizada.
+Correção de sintaxe: Como já tinhamos trabalhado com html no Projeto 1 já estava familiarizado com alguns erros e do método de trabalho para evitá-los( não fechar parágrafos, o "body" etc), contudo estes
+novo projeto trouxe novos desafios. Inicialmente não consegui ver as alterações que apliquei através do estilos CSS , a forma que utilizei para superar este desafio foi ler o guião do 
+projeto e vi que tinha errado a colocar o argumento "link" inicial.  Também tive alguns problemas com as imagens contudo estes foram mais faceis de superar, uma simples revisão atenta ao código eliminou-os.
+(uso de maiusculas , imagens com proporções inadequadas para o trabalho).No geral realizei um bom trabalho e dei o meu melhor para superar as dificuldades.
+Autoria: O atributo "src" serve para indicar a localização/caminho de um ficheiro externo (como uma imagem ) que deve ser processado diretamente pelo navegador utilizado(a imagem deve aparecer incluida no site, juntamente com o texto), no caso do meu trbalho utilizei este atributo quatro vezes.
+">
+
+
+ 
+   
+
+   
+
+
+
+
+
+
+
